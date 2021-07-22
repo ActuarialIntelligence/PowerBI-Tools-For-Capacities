@@ -4,6 +4,7 @@ This repository is meant to host tools and utilities designed to improve all asp
 
 ## Amended in this version:
 
+### Authors in this Amendment:
 
 # Available Tools (as of July 2019)
 
