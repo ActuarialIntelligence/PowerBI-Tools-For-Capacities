@@ -2,6 +2,9 @@
 
 This repository is meant to host tools and utilities designed to improve all aspects of Power BI capacity managment and lifecycle.
 
+## Amended in this version:
+
+
 # Available Tools (as of July 2019)
 
 [Load Testing Tool](http://aka.ms/PowerBILoadTestingTool).
