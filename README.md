@@ -8,7 +8,7 @@ The Python scripts can be found in the  Realistic Tool Folder. They are in fact 
 
 The Python code has been structured following the reasoning behind the original tool in PowerShell but also adding the logic required for the SP authentication method to function.
 
-Note: For the Service Principal Authentication to work, within the .html file, the token type is being set to Embed (tokenType: models.TokenType.Embed). 
+Note: For the Service Principal Authentication to work, within the .html file, the token type has been changed from Aad (tokenType: models.TokenType.Aad) to Embed (tokenType: models.TokenType.Embed). 
 
 It is strongly recommended to read the documentation related to the official Power BI Load Testing Tool to understand better the logic behind the Python code.
 
